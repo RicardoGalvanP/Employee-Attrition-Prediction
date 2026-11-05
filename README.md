@@ -6,6 +6,14 @@ Course work: M.Sc. in Applied Artificial Intelligence, Tecnológico de Monterrey
 Tools: Python, pandas, scikit-learn, seaborn, matplotlib.
 AI assistance: [NAME THE LLM(S) YOU USED]. Used for hyperparameter-search ideas and for reviewing variable transformations; outputs were checked against the scikit-learn documentation and my class notes.
 
+
+### Version
+
+*en: English
+
+*es: Spanish
+
+
 ## Problem
 
 Losing an employee costs recruiting, training and lost productivity. The goal is to flag employees at risk of leaving so HR can open a retention conversation earlier. Dataset: IBM HR Analytics Employee Attrition (1,470 rows, synthetic, from Kaggle). The positive class (Attrition = Yes) is 16%, so a model that always predicts "No" already scores 83.9% accuracy. That is the baseline every model has to beat.
